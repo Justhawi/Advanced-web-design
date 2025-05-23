@@ -1,1 +1,12 @@
-# Advanced-web-design
+<main>
+  <article>
+    <h2>News Headline</h2>
+    <p>Some news content...</p>
+  </article>
+  <aside>
+    <h3>Related Articles</h3>
+    <ul>
+      <li>...</li>
+    </ul>
+  </aside>
+</main># Advanced-web-design
